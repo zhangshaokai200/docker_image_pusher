@@ -1,1 +1,9 @@
 docker.io/library/php:fpm 
+docker.io/calico/cni:v3.27.3            
+docker.io/calico/cni:v3.28.0             
+docker.io/calico/kube-controllers:v3.28.0            
+docker.io/calico/node:v3.27.3             
+docker.io/calico/node:v3.28.0            
+docker.io/library/nginx:latest                                     
+registry.aliyuncs.com/google_containers/pause:3.6              
+registry.cn-hangzhou.aliyuncs.com/songcaiyi/kube-webhook-certgen:v1.4.1              
