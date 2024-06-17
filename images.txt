@@ -1,1 +1,4 @@
-docker.io/library/registry:2
+rockylinux:9
+ubuntu:22.04
+httpd:latest
+busybox:1.28
